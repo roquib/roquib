@@ -8,5 +8,5 @@ I ❤ Open Source. I love [Vim](https://www.vim.org/), [PHP](https://github.com/
 * Author of [myi3ubuntusetup](https://github.com/roquib/myi3ubuntusetup)
 * Some of my laravel projects are [Patients Management System](https://github.com/roquib/pms), [Point of sale](https://github.com/roquib/point_of_sale),  [Online Bus Ticket Reservation System](https://github.com/roquib/OBTRS)    
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roquib&hide=java,html,css,markdown)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roquib&hide=java,markdown)
 ![Stats](https://github-readme-stats.vercel.app/api?username=roquib&show_icons=true&count_private=true&line_height=40)
