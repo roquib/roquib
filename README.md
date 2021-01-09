@@ -1,4 +1,4 @@
-### Hey 👋, I'm Abdur Roquib
+### Hey 👋, I'm Abdur Roquib Pramanik
 
 [![Github](https://img.shields.io/github/followers/roquib?label=Follow&style=social)](https://github.com/roquib)
 
