@@ -5,7 +5,7 @@
 
 I ❤ Open Source. I love [TypeScript](https://www.typescriptlang.org/), [React](https://reactjs.org/), [Vim](https://www.vim.org/), [PHP](https://github.com/php/php-src), linux and like to learn new web technologies. 🙈.
 
-* Software Developer at [SamuraiGeeks](http://samuraigeeks.net)
+* Software Engineer at [SamuraiGeeks](http://samuraigeeks.net)
 * Author of [myi3ubuntusetup](https://github.com/roquib/myi3ubuntusetup)    
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roquib&hide=java,markdown)
