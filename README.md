@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/github/followers/roquib?label=Follow&style=social)](https://github.com/roquib)
 ![](https://visitor-badge.glitch.me/badge?page_id=roquib.roquib)
 
-I ❤ Open Source. I love [Vim](https://www.vim.org/), [PHP](https://github.com/php/php-src), linux and like to learn new web technologies. 🙈.
+I ❤ Open Source. I love [TypeScript](https://www.typescriptlang.org/), [React](https://reactjs.org/), [Vim](https://www.vim.org/), [PHP](https://github.com/php/php-src), linux and like to learn new web technologies. 🙈.
 
 * Software Developer at [SamuraiGeeks](http://samuraigeeks.net)
 * Author of [myi3ubuntusetup](https://github.com/roquib/myi3ubuntusetup)    
