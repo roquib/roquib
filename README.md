@@ -1,8 +1,5 @@
 ### Hey 👋, I'm Abdur Roquib Pramanik
 
-[![Github](https://img.shields.io/github/followers/roquib?label=Follow&style=social)](https://github.com/roquib)
-![](https://visitor-badge.glitch.me/badge?page_id=roquib.roquib)
-
 I ❤ Open Source. I love [TypeScript](https://www.typescriptlang.org/), [React](https://reactjs.org/), [Vim](https://www.vim.org/), [PHP](https://github.com/php/php-src), linux and like to learn new web technologies. 🙈.
 
 * Software Engineer at [SamuraiGeeks](http://samuraigeeks.net)
