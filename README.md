@@ -1,9 +1,11 @@
 ### Hey 👋, I'm Abdur Roquib Pramanik
 
-I ❤ Open Source. I love [TypeScript](https://www.typescriptlang.org/), [React](https://reactjs.org/), [Vim](https://www.vim.org/), [PHP](https://github.com/php/php-src), linux and like to learn new web technologies. 🙈.
-
+* I am a full-stack developer with strong web development concepts and skills having more than 3 years of professional experiences in medium to large-scale web applications.
 * Software Engineer at [SamuraiGeeks](http://samuraigeeks.net)
-* Author of [myi3ubuntusetup](https://github.com/roquib/myi3ubuntusetup)    
+* Skills: PHP | Laravel | Codeigniter | Wordpress | Rails | Livewire |  React | React Native | Redux | NextJs | Vue |Typescript | CSS | SCSS | Tailwind CSS | Bootstrap   
+* Known Languages: C, C++, Java, Ruby, Python, Kotlin, Go, RUST, JavaScript, Coffescript
+* Frameworks: Laravel, Symphony, Codeigniter, Wordpress, Rails, Jquery
+* Mobile Development: React Native, Native base, Redux, React Navigation
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roquib&hide=java,markdown)
 ![Stats](https://github-readme-stats.vercel.app/api?username=roquib&show_icons=true&count_private=true&line_height=40)
