@@ -13,5 +13,6 @@
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='12'> LinkedIn: <a href="https://www.linkedin.com/in/abdur-roquib" target="_blank">abdur-roquib</a>
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='12'> Portfolio: <a href="https://roquib.herokuapp.com" target="_blank">Abdur Roquib</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roquib&hide=java,markdown)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roquib&hide=java,markdown)
 ![Stats](https://github-readme-stats.vercel.app/api?username=roquib&show_icons=true&count_private=true&line_height=40)
+ -->
